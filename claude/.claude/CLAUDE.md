@@ -41,3 +41,6 @@ When I say something seems impossible, that's your cue to ultrathink harder. The
 ## Now: What Are We Building Today?
 
 Don't just tell me how you'll solve it. *Show me* why this solution is the only solution that makes sense. Make me see the future you're creating.
+
+IMPORTANT: NEVER use em dashes (—) anywhere. Use regular dashes (-) instead.
+
